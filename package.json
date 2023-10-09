@@ -1,0 +1,10 @@
+{
+    "name": "CIS-1090-Lab6",
+    "private": true,
+    "scripts": {
+
+    },
+    "dependencies": {
+        "prompt-sync": "^4.2.0"
+    }
+}
