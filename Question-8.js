@@ -3,3 +3,5 @@
 const prompt = require('prompt-sync')({ sigint: true });
 
 let time = prompt('What should I set the timer to? ');
+
+//....your code here
